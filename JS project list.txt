@@ -1,0 +1,33 @@
+Mouse over --> Show photo details
+
+- Next/Previous navigation buttons
+
+2. Create an HTML page with 3 country’s flags. When the user moves the mouse over one of the flags, the onMouseover event calls a function to display the name of the country in the text box. When they move the mouse away from the flag, the textboxclear function is called to clear the text box.
+
+3. Login Authentication & redirection to a page if authentication is successful. If number of login attempts exceeds more than 3 times disable textboxes with error message.
+
+4. Create javascript program for student registration form which includes First name, Last name, Address, Email, password, retype password, and Phone validating inputs for mandatory inputs with following constraints:
+
+Mandatory: First name, email,password,retype password
+
+5. To display a digital clock at the div space using javascript.
+
+6. To create an html page to change the page background color for every click of a button using javascript.
+
+7. Create a page with a label and a button. Button name is “View Offers”. If the counter is first time, display “Congratulation User” and if the counter is 3, display “Discount offer of 20% on all products” and if counter is 5, display message “Hurray!!! Mega offer of 50% on all products”.
+
+8.Javascript program to navigate Array of employee’s records (ID, Name, Address, Mobile No.) and binding it to textboxes and giving options for the users to navigate between records such as First, Next, previous and Last records.
+
+9. Javascript program to design a calculator program accepting 2 numbers and a choice for Add, Subtraction, Product and Division. Click on each button perform the respective task and display the result.
+
+10. Javascript program to accept a number from user and display multiplication table for it (like 5x1=5, 5x2=10 etc...)
+
+11. Program to find max value in an array.
+
+12. Write a javascript program to hold Questions array (http://Q.No, Question, Option 1, Option2, Option 3, Option 4, Correct option, Score) and display question navigation (First,Previous,Next,Last question). Display http://Q.No. in a span, Question in a span, Option1-Option4 in radio buttons.
+
+13. Google suggest like interface
+
+If you want more javascript excise program click the below link:-
+
+JavaScript Exercises, Practice, Solution - w3resource
