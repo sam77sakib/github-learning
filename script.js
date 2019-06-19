@@ -167,3 +167,5 @@ function removeParent(evt){
 	console.log(evt.target.parentNode)
 	evt.target.parentNode.remove();
 } 
+
+//Chsnge in coment .
